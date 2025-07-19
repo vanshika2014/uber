@@ -6,7 +6,7 @@ A fully functional **Uber Clone** web application that allows users to book ride
 
 ## 🌐 Live Demo
 
-👉 [Click here to view the project live](https://your-deployment-link.com)  
+👉 [Click here to view the project live](https://github.com/vanshika2014/uber)  
 *(Replace with your actual live URL)*
 
 ---
